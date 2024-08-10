@@ -1,2 +1,2 @@
-# anomaData
-Capstone Project
+# Anomadata-Capstone
+Capstone project Anoma Data
